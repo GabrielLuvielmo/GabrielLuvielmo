@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">My Abilities</h3>
+<h3 align="center">Studying:</h3>
 
 ###
 
