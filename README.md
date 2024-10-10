@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">currently studying:</p>
+<h4 align="left">currently studying:</h4>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">languages i know:</p>
+<h4 align="left">languages i know:</h4>
 
 ###
 
