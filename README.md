@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">✨ someone who just loves do program <3</h4>
+<h4 align="left">✨ someone who just loves to program <3</h4>
 
 ###
 
