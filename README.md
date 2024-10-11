@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/6b7cb0751540924ab6c4c833922f81e1e47de6f82f80781b84c68171625311a6/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f443074444368737763324941414141432f6b6f6e616b6f6e61676966732d736c656570696e672e676966"  />
+  <img height="230" src="https://camo.githubusercontent.com/6b7cb0751540924ab6c4c833922f81e1e47de6f82f80781b84c68171625311a6/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f443074444368737763324941414141432f6b6f6e616b6f6e61676966732d736c656570696e672e676966"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">✨someone who just loves to program <3</p>
+<p align="center">🇧🇷 Brazilian<br>✨someone who just loves to program <3</p>
 
 ###
 
