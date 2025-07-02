@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">🇧🇷 Brazilian<br>✨someone who just loves to program <3</p>
+<p align="center">🇧🇷 Brazilian<br>✨currently studying Data Sciency & Artificial Intelligence</p>
 
 ###
 
